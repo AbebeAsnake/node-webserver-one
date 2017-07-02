@@ -1,4 +1,4 @@
 node_modules/
 server.log
-vscode
+vscode/
 package-lock.json
